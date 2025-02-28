@@ -5,7 +5,8 @@
 ## 🚀 Tecnologías Utilizadas
 
 - HTML5  
-- CSS3  
+- CSS3 
+- JQuery 
 - Bootstrap CDN  
 - Google Fonts  
 - Imágenes optimizadas  
